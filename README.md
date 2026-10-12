@@ -137,26 +137,7 @@ State- and district-level aggregation helps identify geographical differences in
 Visualizations make comparisons and distributions easier to interpret.
 Correlation analysis helps examine numerical relationships but must be interpreted in the context of how the variables are constructed.
 
-## Suggested Repository Structure
-
-Organize the GitHub repository as follows:
-
-District-wise-Missing-Person-Analysis/
-│
-├── README.md
-├── Missing_Persons_Analysis.ipynb
-├── Missing_Persons_Project_Documentation.pdf
-├── dataset/
-│   └── missing_persons_data.csv
-└── visualizations/
-    ├── year_wise_trend.png
-    ├── state_wise_analysis.png
-    └── other_visualizations.png
-
-Note: These are suggested filenames and folders. Replace them with the actual names of your files and include only files that are available in your repository.
-
- 
- ## How to Run the Project
+## How to Run the Project
  
 ### Prerequisites
 
